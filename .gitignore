@@ -1,0 +1,11 @@
+# Ignore system files
+AppData/
+Cookies/
+Local Settings/
+My Documents/
+Recent/
+Templates/
+Thumbs.db
+.bash_history
+.gitconfig
+.ipynb_checkpoints/
